@@ -147,6 +147,10 @@ img {
         width: 100%;
     }
 
+    .steps{
+        margin-bottom: 0;
+    }
+
     .steps .col {
         width: 100%;
         margin-bottom: 5rem;
@@ -169,5 +173,8 @@ img {
         margin-bottom: 0;
     }
 
-    .why-us, body{background-color: #222222;}
+    .why-us{
+        background-color: #222222;
+        margin-bottom: 0;
+    }
 }
